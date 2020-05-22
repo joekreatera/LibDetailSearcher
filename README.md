@@ -1,7 +1,7 @@
 # LibDetailSearcher
 
 Really simple example of Libraries.io api.
-To use, create one folder on top ** "license.json" ** with the following content:
+To use, create one folder on top *"license.json"* with the following content:
 
 ```
 
